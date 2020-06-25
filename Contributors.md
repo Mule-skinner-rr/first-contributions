@@ -1648,7 +1648,7 @@
 - [Jarret Jheng Ch'ng](https://github.com/jchng)
 - [Prasanth Maddali](https://github.com/mprasanth)
 - [Luis G. Martinez 🇸🇻🤔](https://github.com/LGerMa)
-- muleskinner-rr
+- muleskinner-RR
 - [R. Henriquez](https://github.com/arghen)
 - [Coner Murphy](https://github.com/conermurphy)
 - [Kang InSeob](https://github.com/dlstjq7685)
